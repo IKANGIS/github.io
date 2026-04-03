@@ -27,13 +27,13 @@ ruby
 	mso-protection:locked visible;
 	mso-style-name:표준;
 	mso-style-id:0;}
-.font12
+.font5
 	{color:windowtext;
 	font-size:8.0pt;
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:돋움체, monospace;
+	font-family:"맑은 고딕", monospace;
 	mso-font-charset:129;}
 .font15
 	{color:#548235;
@@ -539,6 +539,7 @@ td
 .xl117
 	{mso-style-parent:style0;
 	mso-number-format:"mm\0022월\0022\\ dd\0022일\0022";
+	text-align:center;
 	border-top:none;
 	border-right:.5pt solid #002060;
 	border-bottom:none;
@@ -590,9 +591,10 @@ td
 	mso-pattern:black none;}
 .xl122
 	{mso-style-parent:style0;
+	color:black;
 	mso-number-format:"mm\0022월\0022\\ dd\0022일\0022";
 	text-align:center;
-	border-top:none;
+	border-top:.5pt solid #002060;
 	border-right:.5pt solid #002060;
 	border-bottom:none;
 	border-left:.5pt solid #002060;
@@ -603,24 +605,13 @@ td
 	color:black;
 	mso-number-format:"mm\0022월\0022\\ dd\0022일\0022";
 	text-align:center;
-	border-top:.5pt solid #002060;
-	border-right:.5pt solid #002060;
-	border-bottom:none;
-	border-left:.5pt solid #002060;
-	background:#E2F0D9;
-	mso-pattern:black none;}
-.xl124
-	{mso-style-parent:style0;
-	color:black;
-	mso-number-format:"mm\0022월\0022\\ dd\0022일\0022";
-	text-align:center;
 	border-top:none;
 	border-right:.5pt solid #002060;
 	border-bottom:.5pt solid #002060;
 	border-left:.5pt solid #002060;
 	background:#E2F0D9;
 	mso-pattern:black none;}
-.xl125
+.xl124
 	{mso-style-parent:style0;
 	color:#548235;
 	font-size:18.0pt;
@@ -629,7 +620,7 @@ td
 	text-align:center;
 	background:#EDEDED;
 	mso-pattern:black none;}
-.xl126
+.xl125
 	{mso-style-parent:style0;
 	color:#203864;
 	font-size:14.0pt;
@@ -637,34 +628,34 @@ td
 	text-align:center;
 	background:white;
 	mso-pattern:black none;}
-.xl127
+.xl126
 	{mso-style-parent:style0;
 	text-align:center;
 	border-top:1.5pt solid #203764;
 	border-right:none;
 	border-bottom:.5pt solid #203764;
 	border-left:1.5pt solid #203764;
+	background:#DDEBF7;
+	mso-pattern:black none;}
+.xl127
+	{mso-style-parent:style0;
+	text-align:center;
+	border-top:1.5pt solid #203764;
+	border-right:.5pt solid #203764;
+	border-bottom:.5pt solid #203764;
+	border-left:none;
 	background:#DDEBF7;
 	mso-pattern:black none;}
 .xl128
 	{mso-style-parent:style0;
 	text-align:center;
-	border-top:1.5pt solid #203764;
-	border-right:.5pt solid #203764;
-	border-bottom:.5pt solid #203764;
-	border-left:none;
-	background:#DDEBF7;
-	mso-pattern:black none;}
-.xl129
-	{mso-style-parent:style0;
-	text-align:center;
 	border-top:.5pt solid #203764;
 	border-right:none;
 	border-bottom:.5pt solid #203764;
 	border-left:1.5pt solid #203764;
 	background:#FCE4D6;
 	mso-pattern:black none;}
-.xl130
+.xl129
 	{mso-style-parent:style0;
 	text-align:center;
 	border-top:.5pt solid #203764;
@@ -673,7 +664,7 @@ td
 	border-left:none;
 	background:#FCE4D6;
 	mso-pattern:black none;}
-.xl131
+.xl130
 	{mso-style-parent:style0;
 	mso-number-format:"mm\0022월\0022\\ dd\0022일\0022";
 	text-align:center;
@@ -683,7 +674,7 @@ td
 	border-left:.5pt solid #002060;
 	background:#E2F0D9;
 	mso-pattern:black none;}
-.xl132
+.xl131
 	{mso-style-parent:style0;
 	text-align:center;
 	border-top:.5pt solid #203764;
@@ -692,7 +683,7 @@ td
 	border-left:1.5pt solid #203764;
 	background:#FCE4D6;
 	mso-pattern:black none;}
-.xl133
+.xl132
 	{mso-style-parent:style0;
 	text-align:center;
 	border-top:.5pt solid #203764;
@@ -700,4 +691,20 @@ td
 	border-bottom:1.5pt solid #203764;
 	border-left:none;
 	background:#FCE4D6;
+	mso-pattern:black none;}
+.xl133
+	{mso-style-parent:style0;
+	color:black;
+	mso-number-format:"mm\0022월\0022\\ dd\0022일\0022";
+	background:#E2F0D9;
+	mso-pattern:black none;}
+.xl134
+	{mso-style-parent:style0;
+	mso-number-format:"mm\0022월\0022\\ dd\0022일\0022";
+	text-align:center;
+	border-top:1.0pt solid #002060;
+	border-right:.5pt solid #002060;
+	border-bottom:.5pt solid #002060;
+	border-left:.5pt solid #002060;
+	background:#E2F0D9;
 	mso-pattern:black none;}
